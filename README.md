@@ -1,2 +1,2 @@
-# hackusu-git-tutorial
-hackUSU Git Tutorial
+# My Basic Git Repo
+* This is a work in progress! :)
